@@ -1,2 +1,3 @@
-# Windrocer.github.io
-Do one thing. Do it well.
+# README.md 
+This is a personal page recording my journey to programming.
+   
