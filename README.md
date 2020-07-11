@@ -8,3 +8,5 @@ Table of content:
 - Learn Markdown gramar.
 ## 2020.02.02
 - Configure .vimrc on new Ubuntu 18.04
+## 2020.03.04
+- Installed ParaView from code-compiling with build OpenGL 2
